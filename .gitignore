@@ -11,3 +11,7 @@ app/etc/*
 !app/etc/modules
 app/etc/modules/*
 !app/etc/modules/Crowdint_Review.xml
+!spec/
+!composer.json
+!composer.lock
+!phpspec.yml
