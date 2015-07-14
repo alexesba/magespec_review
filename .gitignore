@@ -1,0 +1,13 @@
+/*
+!/app
+app/*
+!app/code/
+app/code/*
+!app/code/local
+app/code/local/*
+!app/code/local/Crowdint
+!app/etc
+app/etc/*
+!app/etc/modules
+app/etc/modules/*
+!app/etc/modules/Crowdint_Review.xml

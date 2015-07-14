@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <Crowdint_Review>
+            <version>0.1.0</version>
+        </Crowdint_Review>
+    </modules>
+    <global>
+        <models>
+            <crowdint_review>
+                <class>Crowdint_Review_Model</class>
+            </crowdint_review>
+        </models>
+    </global>
+</config>
