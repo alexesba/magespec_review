@@ -3,7 +3,7 @@
     <modules>
         <Crowdint_Review>
             <active>true</active>
-            <codePool>community</codePool>
+            <codePool>local</codePool>
         </Crowdint_Review>
     </modules>
 </config>

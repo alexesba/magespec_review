@@ -10,6 +10,13 @@
             <crowdint_review>
                 <class>Crowdint_Review_Model</class>
             </crowdint_review>
+
+            <catalog>
+                <rewrite>
+                    <product>Crowdint_Review_Model_Product</product>
+                </rewrite>
+            </catalog>
         </models>
+
     </global>
 </config>
